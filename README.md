@@ -1,10 +1,5 @@
  <h1 align="center">Hi 👋, I'm Kshitija Urmale</h1>
 <h3 align="center">💻 MERN Stack Developer | ☕ Java Dev | 🌟 Lifelong Learner </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+projects+with+💡+passion+and+code;Exploring+MERN+%7C+Java+%7C+DSA+🚀; alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💫 About Me
@@ -26,15 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KshitijaUrmale&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijaUrmale&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
