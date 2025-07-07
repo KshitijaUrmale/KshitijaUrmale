@@ -2,7 +2,7 @@
 <h3 align="center">💻 MERN Stack Developer | ☕ Java Dev | 🌟 Lifelong Learner </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+projects+with+💡+passion+and+code;Exploring+MERN+%7C+Java+%7C+DSA+🚀;Open+to+learning+and+collaborating+🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+projects+with+💡+passion+and+code;Exploring+MERN+%7C+Java+%7C+DSA+🚀; alt="Typing SVG" />
 </p>
 
 ---
@@ -36,12 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KshitijaUrmale&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijaUrmale&layout=compact&theme=radical" width="47%" />
 </p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/KshitijaUrmale/KshitijaUrmale/output/github-contribution-grid-snake.svg)
 
 ---
 
