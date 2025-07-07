@@ -26,9 +26,9 @@
 
 ### 📫 Connect with me:
 
-<p>
-  <a href="https://linkedin.com/in/your-link-here" target="_blank">
-    <img src=" https://www.linkedin.com/in/kshitija-urmale-bg01122004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
+ <p>
+  <a href="https://www.linkedin.com/in/kshitija-urmale-bg01122004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href=" https://instagram.com/kshitija_urmale" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
