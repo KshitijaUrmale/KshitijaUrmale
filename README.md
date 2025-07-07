@@ -24,6 +24,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijaUrmale&layout=compact&theme=radical" width="47%" />
+</p>
+
+--- 
+
 ### 📫 Connect with me:
 
  <p>
