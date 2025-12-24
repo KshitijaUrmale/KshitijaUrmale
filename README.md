@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Kshitija Urmale</h1>
-<h3 align="center">💻 MERN Stack Developer | ☕ Java Dev | 🌟 Lifelong Learner </h3>
+<h3 align="center">💻 MERN Stack Developer | 🌟 Lifelong Learner </h3>
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on: **StayNest**
-- 💬 Ask me about: **Java, React, MongoDB, Nodejs , Js , HTML , CSS, Expressjs**
+- 🔭 I’m currently working on: **HealthWise**
+- 💬 Ask me about: Java,Python, JavaScript, React, Node.js, Express.js, MongoDB, HTML, CSS
 - ✨ Fun Fact: *I love blending creativity with code*
 
 ---
@@ -48,6 +48,6 @@
 
 ### 🌟 Quote I Live By
 
-> *Push yourself, because no one else is going to do it for you.*
+> **Nothing much. Just go and code.**
 
 ---
